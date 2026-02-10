@@ -16,8 +16,8 @@ export const config = {
         'appium:automationName': 'XCUITest',
         'browserName': 'Safari',
         'sauce:options': {
-            tunnelName: 'natwest-poc-tunnel', 
-            tunnelOwner: 'oauth-stefano.loi-800a5',
+            tunnelName: 'poc-tunnel', 
+            tunnelOwner: 'oauth-***',
             build: 'Sauce Connect POC - Localhost Test',
             name: 'iOS Localhost Proof'
         }
